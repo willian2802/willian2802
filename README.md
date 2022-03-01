@@ -2,6 +2,6 @@
 
 
 - 🔭 Procurando entrar no merdado de TI
-- 🌱 atualmente estou estudando Javascript
+- 🌱 atualmente estou estudando um curso de Web Dev
 
 -->
