@@ -2,7 +2,7 @@
 
 
 - 🔭 Procurando entrar no merdado de TI
-- 🌱 Preparando para entrar na faculdade
+- 🌱 Estou cursando software engineer na IU (international university of applied sciences) uma universidade da Alemanha mas eu estou fazendo o curso online.
 - 
 
 -->
